@@ -2,13 +2,13 @@
 
 A collection of advanced vector database implementations using **ChromaDB** for Retrieval-Augmented Generation (RAG) systems and intelligent question-answering applications.
 
-## 📚 Projects
+##  Projects
 
 ### 1. Document Question-Answering System with LangChain and ChromaDB
 An intelligent document Q&A system that combines semantic search with LLM-powered answer generation using RAG architecture.
 
 **Key Features:**
-- Web-based document ingestion using LangChain's WebBaseLoader
+- Web-based document embedding using LangChain's WebBaseLoader
 - Intelligent text chunking with RecursiveCharacterTextSplitter
 - Semantic search using HuggingFace embeddings (all-MiniLM-L6-v2)
 - Vector storage and similarity search with ChromaDB
@@ -17,7 +17,6 @@ An intelligent document Q&A system that combines semantic search with LLM-powere
 
 **Use Cases:** Technical documentation Q&A, knowledge base search, customer support automation
 
-**Technologies:** `LangChain` `ChromaDB` `HuggingFace` `GPT-2` `Python`
 
 ---
 
@@ -33,19 +32,19 @@ A vector database system built on ChromaDB for scientific question answering usi
 
 **Use Cases:** Educational Q&A systems, scientific knowledge retrieval, exam preparation tools
 
-**Technologies:** `ChromaDB` `OpenBookQA` `Python` `Vector Embeddings`
 
 ---
 
-## 🛠️ Technical Stack
+##  Frameworks and Datastructures
 
 - **Vector Database:** ChromaDB
 - **LLM Framework:** LangChain
 - **Embeddings:** HuggingFace Transformers
 - **Language Models:** GPT-2, OpenAI-compatible models
-- **Development:** Python, Jupyter Notebooks, Google Colab
 
-## 🚀 Key Concepts Demonstrated
+
+
+##  Key Concepts 
 
 - **Retrieval-Augmented Generation (RAG):** Combining vector search with LLM generation
 - **Semantic Search:** Dense vector representations for intelligent document retrieval
@@ -53,16 +52,7 @@ A vector database system built on ChromaDB for scientific question answering usi
 - **LLM Integration:** Connecting language models with retrieval systems
 - **Document Processing:** Text chunking and embedding strategies
 
-## 📊 Applications
-
-- Technical documentation search engines
-- Knowledge management systems
-- Customer support automation
-- Research paper analysis
-- Educational Q&A platforms
-- Legal document review systems
-
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Vector-Data-Base/
@@ -71,23 +61,4 @@ Vector-Data-Base/
 └── README.md
 ```
 
-## 🎯 Skills Showcased
-
-- Advanced NLP and information retrieval
-- Vector database design and implementation
-- RAG architecture development
-- LLM application engineering
-- Python scientific computing
-- Machine learning pipeline development
-
-## 🔗 Related Projects
-
-Check out my other ML/AI projects:
-- [EEG/fMRI Signal Processing](https://github.com/belaz1918)
-- [Neural Machine Translation](https://github.com/belaz1918)
-- [Computer Vision & Point Cloud Analysis](https://github.com/belaz1918)
-
----
-
-**Author:** Graduate Student/Researcher in Machine Learning & Neuroscience  
-**Focus:** Deep Learning, Brain-Computer Interfaces, Natural Language Processing
+  
